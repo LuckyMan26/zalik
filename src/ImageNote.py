@@ -2,7 +2,7 @@ from datetime import datetime
 
 from src.base.BaseNote import BaseNote
 
-
+#Нотатка з зображенням
 class ImageNote(BaseNote):
     def __init__(self, title, image_path, tags, importance,text=None):
         content = f"Text: {text}, Image Path: {image_path}"

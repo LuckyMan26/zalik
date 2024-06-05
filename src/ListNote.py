@@ -2,7 +2,7 @@ from datetime import datetime
 
 from src.base.BaseNote import BaseNote
 
-
+#Нотатка зі списком
 class ListNote(BaseNote):
     def __init__(self, title, items, tags, importance):
         content = '\n'.join(items)

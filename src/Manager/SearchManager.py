@@ -1,4 +1,3 @@
-from src.Manager.BaseManager import BaseManager
 
 #Цей клас відповідає за пошук нотатків за заданими умовами
 class SearchManager:

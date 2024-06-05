@@ -5,7 +5,7 @@ from src.ImageNote import ImageNote
 from src.ListNote import ListNote
 from src.Manager.SearchManager import SearchManager
 from src.Manager.SortManager import SortManager
-from src.NoteManager import NoteManager
+from src.Manager.NoteManager import NoteManager
 from src.TextNote import TextNote
 
 

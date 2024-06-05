@@ -1,3 +1,4 @@
+#Базовий менеджер,який відповідає за CRUD операції
 class NoteManager:
     def __init__(self):
         self.notes = []
